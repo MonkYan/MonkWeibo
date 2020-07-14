@@ -6,6 +6,10 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select>
       <path>
@@ -16,6 +20,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52a0cbfb-e8a6-424d-bed9-87e78e5dd240" name="Default Changelist" comment="first">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/cache/packages.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/cache/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/framework/sessions/1Rv8MgxHBocLz7tA51Qx7Hy6qY1Ro2aJnapZ2R8v" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/framework/sessions/26DvcCblyZURlsmXBeDnW1G05A74cCFPYOE48kEm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/framework/sessions/D4Zr0OWRq5J2ZRHnfsy3Un5QM1myYfeg5pjB8d5i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/framework/sessions/J2CgIsomXK9eiW04VVRkkfhouSO9AAbEi879Q220" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/framework/sessions/QhJ4bJSpuguB2XTkG5xXztySRwFk6TcjeDRrnBAZ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/framework/sessions/Ve5YbwEe3bfy4zqjrAoYmKWjgB1p2TQVgA9UEQ9I" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/framework/sessions/apWI7xArJATaSfjSg41eKpgpyHpEFGX3vrQnctNT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/framework/sessions/hJiqxqcQEXObR0HroaYna7HO2Z3wXt5VpW6tyk7O" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/framework/sessions/jEq5bJWahumVJZkNPDYJUCNkaMVswUpgj6JV2eqf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/framework/sessions/kApLMWe6BCyHRLYVyo2piZsZtWgvxsXJeK5H6kdP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/framework/sessions/yb7NDATxYZ6gseGgrG1bZWrMPYZeduXKW1GUF0Z6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/framework/views/050d8d0674190cd8c7a2cf8a491d08fefd32d010.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/logs/laravel.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +50,9 @@
     </execution>
   </component>
   <component name="Git.Settings">
+    <branch-grouping />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP7.3">
     <include_path>
@@ -144,6 +166,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
@@ -159,7 +183,8 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -183,7 +208,8 @@
       <option name="presentableId" value="Default" />
       <updated>1594622372166</updated>
       <workItem from="1594622396519" duration="19318000" />
-      <workItem from="1594721626244" duration="2421000" />
+      <workItem from="1594721626244" duration="5359000" />
+      <workItem from="1594727005415" duration="698000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1594721684509</created>
@@ -192,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594721684510</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first">
+      <created>1594724102205</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594724102205</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,7 +236,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -213,13 +252,13 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1058" y="448" key="#Deployment" timestamp="1594627528748">
+    <state x="1058" y="448" key="#Deployment" timestamp="1594724375537">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1058" y="448" key="#Deployment/0.0.2560.1400@0.0.2560.1400" timestamp="1594627528748" />
+    <state x="1058" y="448" key="#Deployment/0.0.2560.1400@0.0.2560.1400" timestamp="1594724375537" />
     <state x="521" y="539" key="#Notifications" timestamp="1594721148775">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -232,10 +271,18 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1497" y="348" key="#SSH_Configurations/0.0.2560.1400@0.0.2560.1400" timestamp="1594624920800" />
-    <state x="1701" y="444" key="FileChooserDialogImpl" timestamp="1594721483587">
+    <state x="1513" y="361" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594725649734">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1701" y="444" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1594721483587" />
+    <state x="1513" y="361" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594725649734" />
+    <state x="1374" y="100" width="1092" height="1200" key="DiffContextDialog" timestamp="1594727481291">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1374" y="100" width="1092" height="1200" key="DiffContextDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594727481291" />
+    <state x="1701" y="444" key="FileChooserDialogImpl" timestamp="1594727141560">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1701" y="444" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1594727141560" />
     <state x="1728" y="631" key="Github.CreateGistDialog" timestamp="1594629392446">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -244,25 +291,37 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="509" y="603" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594723382375" />
-    <state x="178" y="288" key="SettingsEditor" timestamp="1594724048249">
+    <state x="1231" y="273" key="SettingsEditor" timestamp="1594726844213">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="178" y="288" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1594724048249" />
-    <state x="993" y="497" key="Vcs.Push.Dialog.v2" timestamp="1594721861827">
+    <state x="1231" y="273" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1594726844213" />
+    <state x="1767" y="606" key="VCS.ChangelistChooser" timestamp="1594727411182">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="993" y="497" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594721861827" />
-    <state x="1078" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594723308889">
+    <state x="1767" y="606" key="VCS.ChangelistChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1594727411182" />
+    <state x="993" y="497" key="Vcs.Push.Dialog.v2" timestamp="1594724979230">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1078" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594723308889" />
+    <state x="993" y="497" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594724979230" />
+    <state x="1374" y="100" width="1092" height="1206" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1594726353986">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1374" y="100" width="1092" height="1206" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594726353986" />
+    <state x="1078" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594724429533">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1078" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594724429533" />
     <state x="1389" y="237" key="ftp.server.browser" timestamp="1594625721973">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1389" y="237" key="ftp.server.browser/0.0.2560.1400@0.0.2560.1400" timestamp="1594625721973" />
-    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1594626178481">
+    <state x="420" y="574" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1594727158568">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1594626178481" />
+    <state x="420" y="574" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594727158568" />
+    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1594727522136">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1594727522136" />
   </component>
 </project>
