@@ -20,9 +20,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52a0cbfb-e8a6-424d-bed9-87e78e5dd240" name="Default Changelist" comment="first">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="52a0cbfb-e8a6-424d-bed9-87e78e5dd240" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -197,7 +196,7 @@
       <workItem from="1594622396519" duration="19318000" />
       <workItem from="1594721626244" duration="5359000" />
       <workItem from="1594727005415" duration="2126000" />
-      <workItem from="1594729802378" duration="392000" />
+      <workItem from="1594729802378" duration="600000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1594721684509</created>
@@ -220,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594727962445</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1594730279308</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594730279308</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,7 +270,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1058" y="448" key="#Deployment" timestamp="1594724375537">
@@ -311,10 +318,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1767" y="606" key="VCS.ChangelistChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1594727411182" />
-    <state x="993" y="497" key="Vcs.Push.Dialog.v2" timestamp="1594724979230">
+    <state x="993" y="497" key="Vcs.Push.Dialog.v2" timestamp="1594730286213">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="993" y="497" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594724979230" />
+    <state x="993" y="497" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594730286213" />
     <state x="1374" y="100" width="1092" height="1206" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1594726353986">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
