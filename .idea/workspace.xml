@@ -15,27 +15,14 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52a0cbfb-e8a6-424d-bed9-87e78e5dd240" name="Default Changelist" comment="first">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap/cache/packages.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap/cache/services.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/framework/sessions/1Rv8MgxHBocLz7tA51Qx7Hy6qY1Ro2aJnapZ2R8v" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/framework/sessions/26DvcCblyZURlsmXBeDnW1G05A74cCFPYOE48kEm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/framework/sessions/D4Zr0OWRq5J2ZRHnfsy3Un5QM1myYfeg5pjB8d5i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/framework/sessions/J2CgIsomXK9eiW04VVRkkfhouSO9AAbEi879Q220" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/framework/sessions/QhJ4bJSpuguB2XTkG5xXztySRwFk6TcjeDRrnBAZ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/framework/sessions/Ve5YbwEe3bfy4zqjrAoYmKWjgB1p2TQVgA9UEQ9I" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/framework/sessions/apWI7xArJATaSfjSg41eKpgpyHpEFGX3vrQnctNT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/framework/sessions/hJiqxqcQEXObR0HroaYna7HO2Z3wXt5VpW6tyk7O" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/framework/sessions/jEq5bJWahumVJZkNPDYJUCNkaMVswUpgj6JV2eqf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/framework/sessions/kApLMWe6BCyHRLYVyo2piZsZtWgvxsXJeK5H6kdP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/framework/sessions/yb7NDATxYZ6gseGgrG1bZWrMPYZeduXKW1GUF0Z6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/framework/views/050d8d0674190cd8c7a2cf8a491d08fefd32d010.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/logs/laravel.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -184,7 +171,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -209,7 +196,8 @@
       <updated>1594622372166</updated>
       <workItem from="1594622396519" duration="19318000" />
       <workItem from="1594721626244" duration="5359000" />
-      <workItem from="1594727005415" duration="698000" />
+      <workItem from="1594727005415" duration="2126000" />
+      <workItem from="1594729802378" duration="392000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1594721684509</created>
@@ -225,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594724102205</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first">
+      <created>1594727962445</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594727962445</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,6 +237,23 @@
                   <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="REGEX" value="true" />
+                  <option name="MATCH_CASE" value="true" />
+                </TextFilterSettings>
+              </option>
             </State>
           </value>
         </entry>
@@ -252,7 +264,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1058" y="448" key="#Deployment" timestamp="1594724375537">
@@ -271,10 +283,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1497" y="348" key="#SSH_Configurations/0.0.2560.1400@0.0.2560.1400" timestamp="1594624920800" />
-    <state x="1513" y="361" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594725649734">
+    <state x="956" y="512" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594729038251">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1513" y="361" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594725649734" />
+    <state x="956" y="512" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594729038251" />
     <state x="1374" y="100" width="1092" height="1200" key="DiffContextDialog" timestamp="1594727481291">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -291,10 +303,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="509" y="603" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594723382375" />
-    <state x="1231" y="273" key="SettingsEditor" timestamp="1594726844213">
+    <state x="1231" y="273" key="SettingsEditor" timestamp="1594727918025">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1231" y="273" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1594726844213" />
+    <state x="1231" y="273" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1594727918025" />
     <state x="1767" y="606" key="VCS.ChangelistChooser" timestamp="1594727411182">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
