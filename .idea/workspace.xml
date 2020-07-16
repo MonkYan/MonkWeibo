@@ -20,9 +20,29 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52a0cbfb-e8a6-424d-bed9-87e78e5dd240" name="Default Changelist" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+    <list default="true" id="52a0cbfb-e8a6-424d-bed9-87e78e5dd240" name="Default Changelist" comment="Add .editorconfig">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/StaticPagesController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/static_pages/about.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/static_pages/help.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/static_pages/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/monkweibo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/monkweibo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/cache/packages.php" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/cache/packages.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/cache/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/cache/services.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/logs/laravel.log" beforeDir="false" afterPath="$PROJECT_DIR$/storage/logs/laravel.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,6 +160,9 @@
       <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
       <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
       <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1ecYVSRGBRQOxoZzDO8mZkVXZNj" />
@@ -156,6 +179,8 @@
     <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
@@ -196,7 +221,10 @@
       <workItem from="1594622396519" duration="19318000" />
       <workItem from="1594721626244" duration="5359000" />
       <workItem from="1594727005415" duration="2126000" />
-      <workItem from="1594729802378" duration="600000" />
+      <workItem from="1594729802378" duration="2345000" />
+      <workItem from="1594857032387" duration="62000" />
+      <workItem from="1594857191567" duration="2897000" />
+      <workItem from="1594863014179" duration="989000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1594721684509</created>
@@ -226,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594730279308</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add .editorconfig">
+      <created>1594730446057</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1594730446057</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,13 +306,18 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Add .editorconfig" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add .editorconfig" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1058" y="448" key="#Deployment" timestamp="1594724375537">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1058" y="448" key="#Deployment/0.0.2560.1400@0.0.2560.1400" timestamp="1594724375537" />
+    <state x="533" y="534" key="#File_Watchers" timestamp="1594864006789">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="533" y="534" key="#File_Watchers/0.0.2560.1400@0.0.2560.1400" timestamp="1594864006788" />
     <state x="521" y="539" key="#Notifications" timestamp="1594721148775">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -294,10 +334,18 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="956" y="512" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594729038251" />
+    <state x="320" y="438" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1594857083488">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="320" y="438" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594857083488" />
     <state x="1374" y="100" width="1092" height="1200" key="DiffContextDialog" timestamp="1594727481291">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1374" y="100" width="1092" height="1200" key="DiffContextDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594727481291" />
+    <state x="305" y="473" key="EditFileWatcherDialog" timestamp="1594863908879">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="305" y="473" key="EditFileWatcherDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594863908879" />
     <state x="1701" y="444" key="FileChooserDialogImpl" timestamp="1594727141560">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -310,6 +358,26 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="509" y="603" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594723382375" />
+    <state width="618" height="382" key="GridCell.Tab.0.bottom" timestamp="1594863154618">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="618" height="382" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594863154618" />
+    <state width="618" height="382" key="GridCell.Tab.0.center" timestamp="1594863154618">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="618" height="382" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594863154618" />
+    <state width="618" height="382" key="GridCell.Tab.0.left" timestamp="1594863154617">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="618" height="382" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594863154617" />
+    <state width="618" height="382" key="GridCell.Tab.0.right" timestamp="1594863154618">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="618" height="382" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594863154618" />
+    <state x="457" y="622" key="NewPhpFileDialog" timestamp="1594731829414">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="457" y="622" key="NewPhpFileDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594731829414" />
     <state x="1231" y="273" key="SettingsEditor" timestamp="1594727918025">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
