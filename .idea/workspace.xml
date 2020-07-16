@@ -21,16 +21,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52a0cbfb-e8a6-424d-bed9-87e78e5dd240" name="Default Changelist" comment="Add .editorconfig">
-      <change afterPath="$PROJECT_DIR$/resources/views/Users/show.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/shared/_user_info.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8667bec8-a3c8-45c0-a863-c72b640b3c6c.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/aacccb73-4da0-44a1-af78-a527eba5cca4.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Users/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Users/create.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -348,22 +340,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="509" y="603" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594723382375" />
-    <state width="843" height="384" key="GridCell.Tab.0.bottom" timestamp="1594885770191">
+    <state width="1235" height="384" key="GridCell.Tab.0.bottom" timestamp="1594897685341">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="843" height="384" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594885770191" />
-    <state width="843" height="384" key="GridCell.Tab.0.center" timestamp="1594885770191">
+    <state width="1235" height="384" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594897685341" />
+    <state width="1235" height="384" key="GridCell.Tab.0.center" timestamp="1594897685341">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="843" height="384" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594885770191" />
-    <state width="843" height="384" key="GridCell.Tab.0.left" timestamp="1594885770191">
+    <state width="1235" height="384" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594897685341" />
+    <state width="1235" height="384" key="GridCell.Tab.0.left" timestamp="1594897685341">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="843" height="384" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594885770191" />
-    <state width="843" height="384" key="GridCell.Tab.0.right" timestamp="1594885770191">
+    <state width="1235" height="384" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594897685341" />
+    <state width="1235" height="384" key="GridCell.Tab.0.right" timestamp="1594897685341">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="843" height="384" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594885770191" />
+    <state width="1235" height="384" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594897685341" />
     <state width="218" height="539" key="HiddenNamespacesPopup" timestamp="1594885673327">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
