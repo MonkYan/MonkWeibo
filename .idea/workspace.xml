@@ -22,6 +22,7 @@
   <component name="ChangeListManager">
     <list default="true" id="52a0cbfb-e8a6-424d-bed9-87e78e5dd240" name="Default Changelist" comment="Add .editorconfig">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/Users/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Users/create.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
