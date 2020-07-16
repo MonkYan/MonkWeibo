@@ -20,13 +20,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52a0cbfb-e8a6-424d-bed9-87e78e5dd240" name="Default Changelist" comment="user model">
-      <change afterPath="$PROJECT_DIR$/resources/views/shared/_messages.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/logs/laravel.log" beforeDir="false" afterPath="$PROJECT_DIR$/storage/logs/laravel.log" afterDir="false" />
-    </list>
+    <list default="true" id="52a0cbfb-e8a6-424d-bed9-87e78e5dd240" name="Default Changelist" comment="完成用户注册功能" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -211,7 +205,7 @@
       <workItem from="1594857032387" duration="62000" />
       <workItem from="1594857191567" duration="2897000" />
       <workItem from="1594863014179" duration="8072000" />
-      <workItem from="1594911980949" duration="296000" />
+      <workItem from="1594911980949" duration="637000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1594721684509</created>
@@ -248,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594730446057</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="完成用户注册功能">
+      <created>1594912423340</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1594912423340</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,7 +296,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Add .editorconfig" />
     <MESSAGE value="user model" />
-    <option name="LAST_COMMIT_MESSAGE" value="user model" />
+    <MESSAGE value="完成用户注册功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成用户注册功能" />
   </component>
   <component name="WindowStateProjectService">
     <state x="545" y="469" key="#Deployment" timestamp="1594882352262">
