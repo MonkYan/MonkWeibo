@@ -20,7 +20,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52a0cbfb-e8a6-424d-bed9-87e78e5dd240" name="Default Changelist" comment="完成用户注册功能" />
+    <list default="true" id="52a0cbfb-e8a6-424d-bed9-87e78e5dd240" name="Default Changelist" comment="完成用户注册功能">
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/SessionsController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/sessions/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -205,7 +210,7 @@
       <workItem from="1594857032387" duration="62000" />
       <workItem from="1594857191567" duration="2897000" />
       <workItem from="1594863014179" duration="8072000" />
-      <workItem from="1594911980949" duration="637000" />
+      <workItem from="1594911980949" duration="2346000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1594721684509</created>
@@ -328,10 +333,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="320" y="438" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594857083488" />
-    <state x="1374" y="100" width="1092" height="1200" key="DiffContextDialog" timestamp="1594727481291">
+    <state x="1374" y="100" width="1092" height="1200" key="DiffContextDialog" timestamp="1594912907154">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1374" y="100" width="1092" height="1200" key="DiffContextDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594727481291" />
+    <state x="1374" y="100" width="1092" height="1200" key="DiffContextDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594912907154" />
     <state x="305" y="473" key="EditFileWatcherDialog" timestamp="1594863908879">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -372,10 +377,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="340" y="408" key="NewPhpClassDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594893596049" />
-    <state x="457" y="622" key="NewPhpFileDialog" timestamp="1594899868314">
+    <state x="457" y="622" key="NewPhpFileDialog" timestamp="1594913286153">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="457" y="622" key="NewPhpFileDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594899868314" />
+    <state x="457" y="622" key="NewPhpFileDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594913286153" />
     <state x="1231" y="273" key="SettingsEditor" timestamp="1594727918025">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -384,10 +389,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1767" y="606" key="VCS.ChangelistChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1594727411182" />
-    <state x="993" y="497" key="Vcs.Push.Dialog.v2" timestamp="1594730286213">
+    <state x="993" y="497" key="Vcs.Push.Dialog.v2" timestamp="1594912605514">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="993" y="497" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594730286213" />
+    <state x="993" y="497" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594912605514" />
     <state x="1374" y="100" width="1092" height="1206" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1594726353986">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -396,10 +401,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1078" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594724429533" />
-    <state x="416" y="325" width="668" height="939" key="find.popup" timestamp="1594894152422">
+    <state x="416" y="325" width="668" height="939" key="find.popup" timestamp="1594913772726">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="416" y="325" width="668" height="939" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1594894152422" />
+    <state x="416" y="325" width="668" height="939" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1594913772726" />
     <state x="1389" y="237" key="ftp.server.browser" timestamp="1594882351047">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
