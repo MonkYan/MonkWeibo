@@ -21,11 +21,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52a0cbfb-e8a6-424d-bed9-87e78e5dd240" name="Default Changelist" comment="Add .editorconfig">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/Users/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/static_pages/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/static_pages/home.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/logs/laravel.log" beforeDir="false" afterPath="$PROJECT_DIR$/storage/logs/laravel.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +212,7 @@
       <workItem from="1594729802378" duration="2345000" />
       <workItem from="1594857032387" duration="62000" />
       <workItem from="1594857191567" duration="2897000" />
-      <workItem from="1594863014179" duration="4571000" />
+      <workItem from="1594863014179" duration="8072000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1594721684509</created>
@@ -293,10 +298,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add .editorconfig" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1058" y="448" key="#Deployment" timestamp="1594724375537">
+    <state x="545" y="469" key="#Deployment" timestamp="1594882352262">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1058" y="448" key="#Deployment/0.0.2560.1400@0.0.2560.1400" timestamp="1594724375537" />
+    <state x="545" y="469" key="#Deployment/0.0.2560.1400@0.0.2560.1400" timestamp="1594882352262" />
     <state x="533" y="534" key="#File_Watchers" timestamp="1594864006789">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -309,14 +314,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="726" y="377" key="#Options/0.0.2560.1400@0.0.2560.1400" timestamp="1594720392378" />
-    <state x="1497" y="348" key="#SSH_Configurations" timestamp="1594624920800">
+    <state x="1497" y="348" key="#SSH_Configurations" timestamp="1594882239014">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1497" y="348" key="#SSH_Configurations/0.0.2560.1400@0.0.2560.1400" timestamp="1594624920800" />
-    <state x="956" y="512" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594729038251">
+    <state x="1497" y="348" key="#SSH_Configurations/0.0.2560.1400@0.0.2560.1400" timestamp="1594882239014" />
+    <state x="565" y="349" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594885796911">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="956" y="512" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594729038251" />
+    <state x="565" y="349" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594885796911" />
     <state x="320" y="438" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1594857083488">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -341,26 +346,30 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="509" y="603" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594723382375" />
-    <state width="618" height="382" key="GridCell.Tab.0.bottom" timestamp="1594863154618">
+    <state width="843" height="384" key="GridCell.Tab.0.bottom" timestamp="1594885770191">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="618" height="382" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594863154618" />
-    <state width="618" height="382" key="GridCell.Tab.0.center" timestamp="1594863154618">
+    <state width="843" height="384" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594885770191" />
+    <state width="843" height="384" key="GridCell.Tab.0.center" timestamp="1594885770191">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="618" height="382" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594863154618" />
-    <state width="618" height="382" key="GridCell.Tab.0.left" timestamp="1594863154617">
+    <state width="843" height="384" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594885770191" />
+    <state width="843" height="384" key="GridCell.Tab.0.left" timestamp="1594885770191">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="618" height="382" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594863154617" />
-    <state width="618" height="382" key="GridCell.Tab.0.right" timestamp="1594863154618">
+    <state width="843" height="384" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594885770191" />
+    <state width="843" height="384" key="GridCell.Tab.0.right" timestamp="1594885770191">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="618" height="382" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594863154618" />
-    <state x="457" y="622" key="NewPhpFileDialog" timestamp="1594881632082">
+    <state width="843" height="384" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594885770191" />
+    <state width="218" height="539" key="HiddenNamespacesPopup" timestamp="1594885673327">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="457" y="622" key="NewPhpFileDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594881632082" />
+    <state width="218" height="539" key="HiddenNamespacesPopup/0.0.2560.1400@0.0.2560.1400" timestamp="1594885673327" />
+    <state x="457" y="622" key="NewPhpFileDialog" timestamp="1594886452687">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="457" y="622" key="NewPhpFileDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594886452687" />
     <state x="1231" y="273" key="SettingsEditor" timestamp="1594727918025">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -381,17 +390,21 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1078" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594724429533" />
-    <state x="1389" y="237" key="ftp.server.browser" timestamp="1594625721973">
+    <state x="339" y="234" width="601" height="939" key="find.popup" timestamp="1594886641147">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1389" y="237" key="ftp.server.browser/0.0.2560.1400@0.0.2560.1400" timestamp="1594625721973" />
+    <state x="339" y="234" width="601" height="939" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1594886641147" />
+    <state x="1389" y="237" key="ftp.server.browser" timestamp="1594882351047">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1389" y="237" key="ftp.server.browser/0.0.2560.1400@0.0.2560.1400" timestamp="1594882351047" />
     <state x="420" y="574" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1594727158568">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="420" y="574" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594727158568" />
-    <state x="819" y="245" width="672" height="678" key="search.everywhere.popup" timestamp="1594865128254">
+    <state x="727" y="483" width="672" height="678" key="search.everywhere.popup" timestamp="1594886517199">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="819" y="245" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1594865128254" />
+    <state x="727" y="483" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1594886517199" />
   </component>
 </project>
